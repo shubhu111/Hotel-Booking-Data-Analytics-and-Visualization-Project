@@ -1,5 +1,5 @@
 # Hotel-Booking-Data-Analytics-and-Visualization-Project
-Analyze hotel booking data to identify trends and insights using Excel. Visualizations include time series charts, bar charts, pie charts. Key findings highlight seasonal trends, customer preferences, and revenue insights. Files include the analysis (hotel_booking_project.xlsx) and raw data (hotel_bookings_raw_data.csv).
+Analyze hotel booking data to identify trends and insights using Power bi. Visualizations include time series charts, bar charts, donut charts. Key findings highlight seasonal trends, customer preferences, and revenue insights. Files include the analysis (hotel booking and cancellation.pbxi) and raw data (hotel_bookings_raw_data.csv).
 
 # Hotel Booking Data Analytics and Visualization
 
@@ -69,12 +69,12 @@ This project involves analyzing and visualizing hotel booking data to uncover tr
 - **Revenue Insights**: Highlighted key revenue drivers and segments contributing the most to revenue.
 
 ## Files in Repository
-- `hotel_booking_project.xlsx`: Contains the analysis and visualizations created in Excel.
+- `hotel booking and cancellation.pbxi`: Contains the analysis and visualizations created in Power Bi.
 - `hotel_bookings_raw_data.csv`: The raw dataset used for analysis.
 
 ## How to Use
-1. Download the `hotel_booking_project.xlsx` file.
-2. Open the file using Microsoft Excel.
+1. Download the `hotel booking and cancellation.pbxi` file.
+2. Open the file using Microsoft Power Bi.
 3. Explore the various sheets to view the analysis and visualizations.
 
 ## Conclusion
